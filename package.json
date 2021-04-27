@@ -58,7 +58,7 @@
     "prerender": "^5.4.2",
     "prerender-memory-cache": "^1.0.2",
     "promisify-node": "^0.4.0",
-    "redis": "^2.6.2",
+    "redis": "^3.1.1",
     "redis-jsonify": "^1.0.1",
     "request": "^2.81.0",
     "serve-favicon": "^2.3.0",
